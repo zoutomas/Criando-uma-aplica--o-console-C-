@@ -1,2 +1,2 @@
-# Criando-uma-aplicação-console-C#
- aula da DIO
+ 💻 Criando-uma-aplicação-console-C#
+ 💪🏾 aula da DIO
